@@ -1,5 +1,7 @@
 Feature: Test
 
+    Add some docs
+
     Scenario: First Scenario
         Given a context
 
